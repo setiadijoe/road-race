@@ -1,5 +1,5 @@
 [package]
-name = "road_race"
+name = "roadrace"
 version = "0.1.0"
 edition = "2021"
 
